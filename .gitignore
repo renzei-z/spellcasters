@@ -1,0 +1,4 @@
+spellcasters
+spellcasters.exe
+build/**/*.o
+.vscode/
